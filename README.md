@@ -9,6 +9,23 @@ All the images used in cards were directly taken from Google Images, just as God
 <img width="964" height="525" alt="Captura de pantalla 2025-08-21 180952" src="https://github.com/user-attachments/assets/f2e060bd-998d-4289-95ae-243b52e291a2" />
 <img width="953" height="658" alt="Captura de pantalla 2025-08-21 181006" src="https://github.com/user-attachments/assets/49d43f81-2053-4f14-83c4-aff6181dce35" />
 
+# Additions
+- Jokers
+43 new unbalaced jokers
+4 new rarities: Kalor, Jabroni, Album and SUPER Kalor
+
+- Consumibles
+24 new consumibles
+2 new types: Skelington and SUPER Skelington
+
+- Playing Cards
+2 new enhancements: Chocolate and Crystal
+2 new seals: Black Seal and Skull Seal
+
+- Other
+7 new Booster Packs
+Brain damage
+
 # Installing Instructions
 1 - Install [Steamodded](https://github.com/Steamodded/smods) and [Talisman](https://github.com/SpectralPack/Talisman) and add them to your %AppData%Roaming\Balatro\mods folder (You can install these using the [Balatro Mod Manager](https://balatro-mod-manager.dasguney.com/))
 
