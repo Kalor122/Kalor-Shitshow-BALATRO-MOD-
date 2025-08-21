@@ -17,15 +17,21 @@ All the images used in cards were directly taken from Google Images, just as God
 4 new rarities: Kalor, Jabroni, Album and SUPER Kalor
 
 - Consumibles
+
 24 new consumibles
+
 2 new types: Skelington and SUPER Skelington
 
 - Playing Cards
+
 2 new enhancements: Chocolate and Crystal
+
 2 new seals: Black Seal and Skull Seal
 
 - Other
+
 7 new Booster Packs
+
 Brain damage
 
 # Installing Instructions
