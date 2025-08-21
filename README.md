@@ -7,4 +7,5 @@ All the images used in cards were directly taken from Google Images, just as God
 
 # Installing Instructions
 1 - Install [Steamodded](https://github.com/Steamodded/smods) and [Talisman](https://github.com/SpectralPack/Talisman) and add them to your %AppData%Roaming\Balatro\mods folder (You can install these using the [Balatro Mod Manager](https://balatro-mod-manager.dasguney.com/))
+
 2 - Install the latest version of Kalor Shitshow on the [Releases](https://github.com/Kalor122/Kalor-Shitshow-BALATRO-MOD-/releases) page and add it to your %AppData%Roaming\Balatro\mods folder (Unzip the file first)
