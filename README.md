@@ -11,7 +11,9 @@ All the images used in cards were directly taken from Google Images, just as God
 
 # Additions
 - Jokers
+
 43 new unbalaced jokers
+
 4 new rarities: Kalor, Jabroni, Album and SUPER Kalor
 
 - Consumibles
