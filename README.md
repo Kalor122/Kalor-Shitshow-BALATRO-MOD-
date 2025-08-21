@@ -5,7 +5,7 @@ Kalor Shishow is a collage of loosely related, poorly edited and unbalanced joke
 
 All the images used in cards were directly taken from Google Images, just as God intended.
 
-If you have any ideas you want in the mod, be sure to make an [issue](https://github.com/Kalor122/Kalor-Shitshow-BALATRO-MOD-/issues) using the enhancement label. (Please explain it in detail)
+If you have any ideas you want in the mod, or you encounter any bug, be sure to make an [issue](https://github.com/Kalor122/Kalor-Shitshow-BALATRO-MOD-/issues) using the enhancement or bug label. (Please explain it in detail)
 
 <img width="1039" height="759" alt="Captura de pantalla 2025-08-21 180931" src="https://github.com/user-attachments/assets/44116121-505c-41c8-a98c-6070f1688730" />
 <img width="964" height="525" alt="Captura de pantalla 2025-08-21 180952" src="https://github.com/user-attachments/assets/f2e060bd-998d-4289-95ae-243b52e291a2" />
