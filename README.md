@@ -1,5 +1,5 @@
 # Kalor Shitshow [BALATRO MOD]
-<img width="2352" height="1928" alt="47 sin título10_20250821174327" src="https://github.com/user-attachments/assets/66077886-2c0a-4987-b74e-bd2b342909de" />
+<img width="2560" height="2048" alt="thumb" src="https://github.com/user-attachments/assets/c2e561ec-9d6c-46b0-b9ee-8f384138129f" />
 
 Kalor Shishow is a collage of loosely related, poorly edited and unbalanced jokers and other cards. This is the only Balatro mod where you can commit tax evasion, do not play this mod. (Made using [Joker Forge](https://jokerforge.jaydchw.com/))
 
