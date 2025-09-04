@@ -8,9 +8,11 @@ All the images used in cards were directly taken from Google Images, just as God
 
 If you have any ideas you want in the mod, or you encounter any bugs, be sure to make an [issue](https://github.com/Kalor122/Kalor-Shitshow-BALATRO-MOD-/issues) using the enhancement or bug label. (Please explain it in detail)
 
-<img width="1039" height="759" alt="Captura de pantalla 2025-08-21 180931" src="https://github.com/user-attachments/assets/44116121-505c-41c8-a98c-6070f1688730" />
-<img width="964" height="525" alt="Captura de pantalla 2025-08-21 180952" src="https://github.com/user-attachments/assets/f2e060bd-998d-4289-95ae-243b52e291a2" />
-<img width="953" height="658" alt="Captura de pantalla 2025-08-21 181006" src="https://github.com/user-attachments/assets/49d43f81-2053-4f14-83c4-aff6181dce35" />
+<img width="1038" height="766" alt="Captura de pantalla 2025-09-04 131006" src="https://github.com/user-attachments/assets/f95b5568-65ef-4f4e-a37c-fb8c03194073" />
+<img width="940" height="521" alt="Captura de pantalla 2025-09-04 131057" src="https://github.com/user-attachments/assets/b456f22b-b6a1-48df-a49e-32d12e413753" />
+<img width="943" height="522" alt="Captura de pantalla 2025-09-04 131111" src="https://github.com/user-attachments/assets/75100f78-691e-499a-bf54-167aa1119e51" />
+<img width="955" height="658" alt="Captura de pantalla 2025-09-04 131122" src="https://github.com/user-attachments/assets/bd66e9ce-b083-4c47-bc25-96ebb4f83ed2" />
+
 
 # Additions
 - Jokers
