@@ -15,13 +15,15 @@ If you have any ideas you want in the mod, or you encounter any bugs, be sure to
 # Additions
 - Jokers
 
-43 new unbalaced jokers
+53 new unbalaced jokers
 
 4 new rarities: Kalor, Jabroni, Album and SUPER Kalor
 
+2 new editions: Deluxe and Depressed
+
 - Consumibles
 
-24 new consumibles
+27 new consumibles
 
 2 new types: Skelington and SUPER Skelington
 
@@ -33,7 +35,7 @@ If you have any ideas you want in the mod, or you encounter any bugs, be sure to
 
 - Other
 
-7 new Booster Packs
+9 new Booster Packs
 
 Brain damage
 
